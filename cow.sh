@@ -55,3 +55,5 @@ let a=0
 fi
 
 done
+
+#hi, ur dad is gay ~~C.
