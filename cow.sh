@@ -55,5 +55,5 @@ let a=0
 fi
 
 done
-
+#your mom would be disappointed ~~N.
 #hi, ur dad is gay ~~C.
